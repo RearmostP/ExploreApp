@@ -1,4 +1,4 @@
-from ui.main_ui import *
+from app.ui.screens.main_screen import ExpenseApp
 
 
 if __name__ == "__main__":
