@@ -1,2 +1,14 @@
-הוראות התקנה 
-
+**הוראות התקנה:**
+קודם כל מתקינים פייתון גרסה 3.10 אחר כך מורידים את הפרויקט על ידי
+```
+git clone https://github.com/RearmostP/ExploreApp
+```
+ואחר כך בשורש של האפליקציה תיצרו venv עם פייתון 3.10 
+```
+python -m venv venv
+venv\Scripts\activate
+```
+ואחר כך תתקינו את הספפריה הנחוצה
+```
+pip install kivy
+```
