@@ -1,6 +1,6 @@
 import json
 import os
-from logic.dates import current_year, current_month_day
+from app.core.dates import current_year, current_month_day
 
 
 class ExpenseLogic:

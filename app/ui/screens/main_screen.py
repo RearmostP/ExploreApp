@@ -9,5 +9,5 @@ class ExpenseApp(App):
         al = AnchorLayout()
         gl = GridLayout()
         al.add_widget(gl)
-
+        
         return al
